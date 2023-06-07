@@ -17,3 +17,9 @@ aib9:
 
 - test -- Alpha-aminoisobutyric acid-9 solvated in TIP3P, simulated using GROMACS 2018.8 at 500 K using the CHARMM36m force field for 200 ns, unbiased
 - ref -- Alpha-aminoisobutyric acid-9 solvated in TIP3P, simulated using GROMACS 2018.8 at 400 K using the CHARMM36m force field for 714 ns, biased using well-tempered metadynamics as described in https://pubs.acs.org/doi/10.1021/acs.jctc.2c00058
+
+Full datasets available for download on Zenodo: 
+
+[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.8015187.svg)](https://doi.org/10.5281/zenodo.8015187)
+
+
