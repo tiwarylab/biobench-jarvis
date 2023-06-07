@@ -1,5 +1,5 @@
 # biobench-jarvis
-Tiwary Lab contribution to the NIST JARVIS leaderboard
+Tiwary Lab contribution to the NIST [JARVIS leaderboard](https://pages.nist.gov/jarvis_leaderboard/)
 
 ## Benchmarks
 
